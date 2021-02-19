@@ -1,4 +1,4 @@
-All class slides avalable in a single searchable pdf.
+### All class slides avalable in a single searchable pdf.
 
 you can either [download](https://github.com/sketchsnipe/slides/raw/master/slides.pdf) it
 or
