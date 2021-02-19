@@ -1,4 +1,3 @@
-<embed src="" width="500" height="375" type="application/pdf">
 
 <object data="https://github.com/sketchsnipe/slides/raw/master/slides.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/sketchsnipe/slides/raw/master/slides.pdf">
